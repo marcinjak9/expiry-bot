@@ -1,0 +1,24 @@
+{
+  "name": "expiry-bot",
+  "version": "0.0.1",
+  "description": "A simple Telegram Bot that use Text detection to scan the expiry date of your products in fridge ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcinjak9/expiry-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "javascript"
+  ],
+  "author": "Marcin Jakubik <marcinjak9@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcinjak9/expiry-bot/issues"
+  },
+  "homepage": "https://github.com/marcinjak9/expiry-bot#readme"
+}
